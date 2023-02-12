@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cd /home/juice/unciv_server/
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+cd SCRIPT_DIR
 
 bash ./update.sh
 

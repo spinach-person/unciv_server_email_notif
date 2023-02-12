@@ -1,0 +1,16 @@
+{
+	"player-id-list":[
+		{
+			"id":"player-id-string-1",
+			"email":"player1@example.com"
+		},
+		{
+			"id":"player-id-string-2",
+			"email":"player2@example.com"
+		},
+		{
+			"id":"player-id-string-3",
+			"email":"player3@example.com"
+		}
+	]
+}

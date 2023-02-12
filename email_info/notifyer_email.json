@@ -1,0 +1,7 @@
+{
+	"address":"sender@example.com",
+	"password":"securePassword12345",
+	"smtp_server":"smtp.example.com",
+	"smtp_port":587,
+	"notify_interval_minutes":5
+}

@@ -1,5 +1,6 @@
 {
 	"address":"sender@example.com",
+	"username":"usernameString",
 	"password":"securePassword12345",
 	"smtp_server":"smtp.example.com",
 	"smtp_port":587,
